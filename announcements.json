@@ -1,14 +1,34 @@
 [
-    {
-    "text": "Welcomet to Application Support Portal",
-    "type": "normal"
-  },
-   {
-    "text": "For Any IT Hardware Related Support Please mail on techsupport@pahalfinance.com",
+  {
+    "text": "Welcome to the PAHAL Application Support Portal – Your one-stop solution for all application support needs.",
     "type": "normal"
   },
   {
-    "text": "For Any Digital Collcetion Related Support Please mail on digital.colletions@pahalfinance.com",
+    "text": "For IT hardware related support, please email techsupport@pahalfinance.com",
+    "type": "normal"
+  },
+  {
+    "text": "For digital collection related support, please email digital.collections@pahalfinance.com",
+    "type": "normal"
+  },
+  {
+    "text": "Please always download the latest application versions only from this support portal.",
+    "type": "normal"
+  },
+  {
+    "text": "Check the User Guide Documents section for installation steps and troubleshooting help.",
+    "type": "normal"
+  },
+  {
+    "text": "Kindly inform the support team in advance for urgent technical assistance.",
+    "type": "normal"
+  },
+  {
+    "text": "New updates and important notifications will be shared regularly on this portal.",
+    "type": "normal"
+  },
+  {
+    "text": "If you face login or app issues, refer to the User Guide before raising a support request.",
     "type": "normal"
   }
 ]
