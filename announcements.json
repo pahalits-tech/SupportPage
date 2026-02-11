@@ -1,0 +1,22 @@
+[
+  {
+    "text": "GLOW App updated to v2.5.1 - Please update from the portal",
+    "type": "normal"
+  },
+  {
+    "text": "Server maintenance scheduled on Feb 15, 2026 from 2:00 PM to 4:00 PM",
+    "type": "alert"
+  },
+  {
+    "text": "URGENT: All users must update TruCell App before Feb 20, 2026",
+    "type": "urgent"
+  },
+  {
+    "text": "New SpotWays features available - Check user guides section",
+    "type": "normal"
+  },
+  {
+    "text": "Helpdesk available on weekends for emergency support",
+    "type": "normal"
+  }
+]
