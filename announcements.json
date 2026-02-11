@@ -1,11 +1,11 @@
 [
-   {
-    "text": "Server maintenance scheduled on Feb 15, 2026 from 2:00 PM to 4:00 PM",
-    "type": "alert"
+    {
+    "text": "Welcomet to Application Support Portal",
+    "type": "normal"
   },
-  {
-    "text": "URGENT: All users must update TruCell App before Feb 20, 2026",
-    "type": "urgent"
+   {
+    "text": "Server maintenance scheduled on Feb 16, 2026 from 12:00 PM to 05:00 AM",
+    "type": "alert"
   },
   {
     "text": "GLow Helpdesk available on weekends for emergency support",
